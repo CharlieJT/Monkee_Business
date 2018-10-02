@@ -72,9 +72,10 @@ Working alongside bootstrapcdn fontawesome is a great resource for icons and ani
 
 ## TESTING
 
-The site was built on a page by page basis with each feature tested as constructed, for example on the home page I set the buttons up and assigned their href and then 
+The site was built on a page by page basis with each feature tested as constructed using, for example on the home page I set the buttons up and assigned their href and then 
 tested the link was directing corrcetly as each page was constructed.
 Equally with the contact page I had a couple of issues with layout and getting the correct code to run when and incorrect email address format was submitted.
+This site was built using [Cloud9 Pages](https://c9.io/)
 
 The last challenge and still an opportunity for develoment was the href to the music and video file location, the initial isues were with the original file location not being
 a direct file ie I was using a sub file...
