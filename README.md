@@ -1,5 +1,6 @@
 HELLO AND WELCOME TO THE MONKEES!
 
+
 THIS PROJECT WILL BE FOUND UNDER THE NAME 'MONKEE_PAGES'
 
 These pages are part of an online campaign by the world famous band "The Monkees" to reach a wider audience
@@ -43,6 +44,8 @@ Page four/Music;  An opportunity for the user to have a listen to a selection of
 Future development of this site would see the use of imagery on the mp3 links and also have a remote player pop up rather than take the 
 user off the page and then have to click back to return.
 I would also use the home page new album as a link to a sample of the tracks on the album and with a more devisive CTA button to purchase.
+
+Wireframe - /assets/images/wireframe.JPG
 
 TECH USED
 The build of this site used Google Fonts - https://fonts.google.com/
