@@ -89,7 +89,7 @@ https://www.monkees.com/
 
 ## Acknowledgements;
 
-The initial credit must go to the Code Institute for the inspiration to develop a page design that I used throughout this project
-To Jesse James Garrett and his great book 'The elements of the user experience' which I'm still reading!
-To the Monkees for hours of research into their famous and inspirational past present and hopefully future.
+The initial credit must go to the `Code Institute` for the inspiration to develop a page design that I used throughout this project
+To `Jesse James Garrett` and his great book `'The elements of the user experience' which I'm still reading!`
+`To the Monkees` for hours of research into their famous and inspirational past present and hopefully future.
 
