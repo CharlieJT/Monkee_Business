@@ -49,6 +49,7 @@ Wireframe: https://github.com/bullseyebill/Monkee_Business/blob/master/assets/im
            https://github.com/bullseyebill/Monkee_Business/blob/master/assets/images/wf2.JPG
            https://github.com/bullseyebill/Monkee_Business/blob/master/assets/images/wf3.JPG
            https://github.com/bullseyebill/Monkee_Business/blob/master/assets/images/wf4.JPG
+           https://github.com/bullseyebill/Monkee_Business/blob/master/assets/images/wf5.JPG
 
 TECH USED
 The build of this site used Google Fonts - https://fonts.google.com/
