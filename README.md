@@ -45,8 +45,8 @@ Future development of this site would see the use of imagery on the mp3 links an
 user off the page and then have to click back to return.
 I would also use the home page new album as a link to a sample of the tracks on the album and with a more devisive CTA button to purchase.
 
-## Wireframe:
-           (https://github.com/bullseyebill/Monkee_Business/blob/master/assets/images/wireframe.JPG)
+### Wireframe:
+           https://github.com/bullseyebill/Monkee_Business/blob/master/assets/images/wireframe.JPG
            https://github.com/bullseyebill/Monkee_Business/blob/master/assets/images/wf2.JPG
            https://github.com/bullseyebill/Monkee_Business/blob/master/assets/images/wf3.JPG
            https://github.com/bullseyebill/Monkee_Business/blob/master/assets/images/wf4.JPG
