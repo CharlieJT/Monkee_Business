@@ -47,6 +47,7 @@ I would also use the home page new album as a link to a sample of the tracks on 
 
 Wireframe: https://github.com/bullseyebill/Monkee_Business/blob/master/assets/images/wireframe.JPG
            https://github.com/bullseyebill/Monkee_Business/blob/master/assets/images/wf2.JPG
+           https://github.com/bullseyebill/Monkee_Business/blob/master/assets/images/wf3.JPG
 
 TECH USED
 The build of this site used Google Fonts - https://fonts.google.com/
