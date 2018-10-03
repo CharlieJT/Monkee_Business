@@ -1,7 +1,7 @@
-HELLO AND WELCOME TO THE MONKEES!
+# HELLO AND WELCOME TO THE MONKEES!
 
 
-THIS PROJECT WILL BE FOUND UNDER THE NAME 'MONKEE_PAGES'
+## THIS PROJECT WILL BE FOUND UNDER THE NAME 'MONKEE_PAGES'
 
 These pages are part of an online campaign by the world famous band "The Monkees" to reach a wider audience
 and showcase some of their history in the tv and music industry.
@@ -9,7 +9,7 @@ The site is made up of 4 pages, a landing/home page, a page with images of the b
 page to allow users to either send a message and or enquire about booking the band for their own event and finally an offer
 of some audio links and a video link embeddded behind some more pictures from the band.
 
-UX PROCESS
+## UX PROCESS
 
 Whilst designing a site for the band I took time to consider who will be the main users of these pages,
 looking at the history of the band I think it would be fair to say that we are dealing with a more senior
@@ -45,9 +45,20 @@ Future development of this site would see the use of imagery on the mp3 links an
 user off the page and then have to click back to return.
 I would also use the home page new album as a link to a sample of the tracks on the album and with a more devisive CTA button to purchase.
 
-Wireframe - /assets/images/wireframe.JPG
+Wireframe:
 
-TECH USED
+           https://github.com/bullseyebill/Monkee_Business/blob/master/assets/images/wireframe.JPG
+           
+           https://github.com/bullseyebill/Monkee_Business/blob/master/assets/images/wf2.JPG
+           
+           https://github.com/bullseyebill/Monkee_Business/blob/master/assets/images/wf3.JPG
+           
+           https://github.com/bullseyebill/Monkee_Business/blob/master/assets/images/wf4.JPG
+           
+           https://github.com/bullseyebill/Monkee_Business/blob/master/assets/images/wf5.JPG
+           
+
+## TECH USED
 The build of this site used Google Fonts - https://fonts.google.com/
 Google offers an easy and free method to embedding performance-optimized web fonts on the site.
 
@@ -60,21 +71,22 @@ A great source for a huge number of tools to help with the development of your p
 Font Awesome - https://www.bootstrapcdn.com/fontawesome/
 Working alongside bootstrapcdn fontawesome is a great resource for icons and animations.
 
-TESTING
+## TESTING
 
-The site was built on a page by page basis with each feature tested as constructed, for example on the home page I set the buttons up and assigned their href and then 
+The site was built on a page by page basis with each feature tested as constructed using, for example on the home page I set the buttons up and assigned their href and then 
 tested the link was directing corrcetly as each page was constructed.
 Equally with the contact page I had a couple of issues with layout and getting the correct code to run when and incorrect email address format was submitted.
+This site was built using [Cloud9 Pages](https://c9.io/)
 
 The last challenge and still an opportunity for develoment was the href to the music and video file location, the initial isues were with the original file location not being
 a direct file ie I was using a sub file...
 As I mentioned earlier I would like to develop an image into the mp4 player and have it 'pop' into a window rather than switch to a new page.
 
-CREDITS
+## CREDITS
 
 Content;
 
-The text for 'band bio' was inspired by Wikipedia.
+The text for 'band bio' was inspired by `Wikipedia.`
 
 Media;
 
@@ -82,9 +94,9 @@ All imagery was sourced via - https://en.wikipedia.org/wiki/The_Monkees
 https://www.monkees.com/
 
 
-Acknowledgements;
+## Acknowledgements;
 
-The initial credit must go to the Code Institute for the inspiration to develop a page design that I used throughout this project
-To Jesse James Garrett and his great book 'The elements of the user experience' which I'm still reading!
-To the Monkees for hours of research into their famous and inspirational past present and hopefully future.
+The initial credit must go to the `Code Institute` for the inspiration to develop a page design that I used throughout this project
+To `Jesse James Garrett` and his great book `'The elements of the user experience'` which I'm still reading!
+`To the Monkees` for hours of research into their famous and inspirational past present and hopefully future.
 
